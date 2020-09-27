@@ -1,4 +1,4 @@
-### Oi, sou o Lucas - aka Lukenoutte 👋
+### Oi, sou o Lucas - aka Luke 👋
 
 ## Desenvolvedor especialista em front-end!
 - 🔭 Atualmente estou buscando aprender o máximo sobre desenvolvimento web
