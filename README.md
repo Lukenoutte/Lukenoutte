@@ -1,6 +1,6 @@
 ### Oi, sou o Lucas - aka Lukenoutte 👋
 
-## Sou desenvolvedor front-end!
+## Desenvolvedor especialista em front-end!
 - 🔭 Atualmente estou buscando aprender o máximo sobre desenvolvimento web
 - 🔍 Focado no front-end e em react js 
 - 📕 Formado em Ciência da computação
@@ -16,6 +16,8 @@
 - Conhecimento de JavaScript, CSS(Flexbox e Grid) e HTML
 - Experiência com consumo de APIs REST, RESTful
 - SASS
+- Node js
+- MongoDB
 
 <br />
 
