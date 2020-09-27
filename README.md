@@ -5,7 +5,7 @@
 - 🔍 Focado no front-end e em react js 
 - 📕 Formado em Ciência da computação
 - 🥅 A procura de um trabalho na área
-
+- ⏳ Sempre disposto a aprender novas tecnologias!
 
 
 <br />
