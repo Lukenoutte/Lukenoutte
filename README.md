@@ -2,9 +2,7 @@
 
 ## Desenvolvedor especialista em front-end!
 - 🔭 Atualmente estou buscando aprender o máximo sobre desenvolvimento web
-- 🔍 Focado no front-end e em react js 
 - 📕 Formado em Ciência da computação
-- 🥅 A procura de um trabalho na área
 - ⏳ Sempre disposto a aprender novas tecnologias!
 
 
