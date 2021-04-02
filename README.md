@@ -1,21 +1,20 @@
 ### Oi, sou o Lucas - aka Luke 👋
 
 ## Desenvolvedor full stack especialista em front-end!
-- 🔭 Atualmente estou buscando aprender o máximo sobre desenvolvimento web.
 - 📕 Formado em Ciência da computação
-- ⏳ Sempre disposto a aprender novas tecnologias!
+- ⏳ Sempre aprendendo novas tecnologias!
 
 
 <br />
 
 ## Linguagens e ferramentas:
 
-- Experiência com React.js
-- Conhecimento de JavaScript, CSS(Flexbox e Grid) e HTML
-- Experiência com consumo de APIs REST, RESTful
-- SASS
+- React.js 
+- Vue js, Vuex, Quasar
+- Docker
 - Node js
-- MongoDB
+- Jest
+- Mongo db, PostgreSQL
 
 <br />
 
